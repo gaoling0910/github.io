@@ -1,16 +1,17 @@
 <?php
 
-//コメント
-#コメント
-/*コメント
+// コメント
+# コメント
+/*
 コメント
 コメント
 コメント
 */
-echo "hello fron the TOP!";
+
+echo "hello from the TOP!";
+echo "hello from the TOP! again!";
 
 ?>
-
 <!DOCTYPE html>
 <html lang="ja">
 <body>
